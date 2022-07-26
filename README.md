@@ -1,5 +1,3 @@
-<img aligh="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwwz11&layout=compact"/>
-<br>
 
 <h2>Hansol Cho</h2>
 <p>
@@ -24,4 +22,5 @@
 <hr width = "100%" color = "white" size = "1">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zwwz11&show_icons=true&theme=radical"/>
+<img aligh="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwwz11&layout=compact"/>
 
