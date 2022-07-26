@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MSSQL-White?style=for-the-badge&color=red"/>
+  <img src="https://img.shields.io/badge/SVN-White?style=for-the-badge&color=blue"/>
 </div>
 
 <hr width = "100%" color = "white" size = "1">
