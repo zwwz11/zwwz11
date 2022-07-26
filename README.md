@@ -1,3 +1,6 @@
+<img aligh="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwwz11&layout=compact"/>
+<br>
+
 <h2>Hansol Cho</h2>
 <p>
   현재 C# 3년차 개발자입니다. MES 개발을 하고있으며 Winform DevExpress 사용중입니다. 
@@ -20,8 +23,5 @@
 
 <hr width = "100%" color = "white" size = "1">
 
-<div align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zwwz11&show_icons=true&theme=radical"/>
-  <img aligh="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwwz11&layout=compact"/>
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zwwz11&show_icons=true&theme=radical"/>
 
