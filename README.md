@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zwwz11&show_icons=true&theme=radical"/>
-<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zwwz11"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwwz11"/>
 
 [![Solved.ac
