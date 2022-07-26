@@ -28,7 +28,6 @@ Here are some ideas to get you started:
   <br>
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwwz11"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwwz11)](https://github.com/zwwz11/github-readme-stats)
   
 </div>
 
