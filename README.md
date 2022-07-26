@@ -21,14 +21,8 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-<div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwwz11&show_icons=true&theme=radical)
-  
-  <br>
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwwz11"/>
-  
-</div>
 
-[![Solved.aczwwz11](http://mazassumnida.wtf/api/v2/generate_badge?boj=zwwz11)](https://solved.ac/zwwz11)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zwwz11&show_icons=true&theme=radical"/>
+<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zwwz11"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwwz11"/>
+
