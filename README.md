@@ -1,8 +1,6 @@
 안녕
 
-기술스택
-- 테스트1
-- 테스트2
+<h3>기술스택</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
