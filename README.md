@@ -20,8 +20,8 @@
 
 <hr width = "100%" color = "white" size = "1">
 
-<div align="center">
+<div align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=zwwz11&show_icons=true&theme=radical"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwwz11&layout=compact"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwwz11&layout=compact"/>
 </div>
 
