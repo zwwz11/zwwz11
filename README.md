@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+[![Solved.ac
+zwwz11](http://mazassumnida.wtf/api/generate_badge?boj=zwwz11)](https://solved.ac/zwwz11)
+
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zwwz11&show_icons=true&theme=radical"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwwz11"/>
