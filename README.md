@@ -17,10 +17,10 @@
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MSSQL-White?style=for-the-badge&color=red"/>
   <img src="https://img.shields.io/badge/SVN-White?style=for-the-badge&color=blue"/>
+  <br>
+  <img aligh="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwwz11&layout=compact"/>
 </div>
 
 <hr width = "100%" color = "white" size = "1">
-
-<img aligh="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwwz11&layout=compact"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zwwz11&show_icons=true&theme=radical"/>
 
