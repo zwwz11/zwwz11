@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Winform-White"/>
+  <img src="https://img.shields.io/badge/style=for-the-badge&Winform-White"/>
 </div>
 
 <hr width = "100%" color = "white" size = "1">
