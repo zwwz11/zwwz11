@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 <div align="center">
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwwz11&show_icons=true&theme=radical)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwwz11)](https://github.com/zwwz11/github-readme-stats)
+  
 </div>
 
 [![Solved.aczwwz11](http://mazassumnida.wtf/api/v2/generate_badge?boj=zwwz11)](https://solved.ac/zwwz11)
