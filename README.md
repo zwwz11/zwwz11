@@ -1,9 +1,9 @@
 
 <h2>Hansol Cho</h2>
 <p>
-  현재 C# 3년차 개발자입니다. MES 개발을 하고있으며 Winform DevExpress 사용중입니다. 
+  현재 C# 3년차 개발자입니다. Winform을 사용하여 MES 개발을 하고있으며 서드 파티 툴로는 DevExpress 사용중입니다. 
   <br>
-  개인 공부로 Spring을 주로 공부하며 현재 도서 대여/반납 서비스를 구현중입니다.
+  개인 공부로 Spring과 C#을 주로 공부하고 있습니다. 
 </p>
 
 <hr width = "100%" color = "white" size = "1">
